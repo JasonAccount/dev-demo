@@ -19,7 +19,7 @@
     <jna.version>4.1.0</jna.version>
     <fastjson.version>1.2.62</fastjson.version>
     <apache.commons-lang3.version>3.9</apache.commons-lang3.version>
-    <commons-io.version>2.6</commons-io.version>
+    <commons-io.version>2.7</commons-io.version>
     <poi.version>4.1.0</poi.version>
   </properties>
 
